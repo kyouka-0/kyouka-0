@@ -8,9 +8,9 @@ I'm a highly motivated student at **El-Sewedy IATS School**, dedicated to master
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,py,dart,flutter,git,mssql&theme=dark" alt="C#, .NET, C++, Python, Dart, Flutter, Git, MSSQL" />
-</p>
+<div style="display: flex; justify-content: center;">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,py,dart,flutter,git,mssql&theme=dark" alt="C#, .NET, C++, Python, Dart, Flutter, Git, MSSQL" />
+</div>
 
 ---
 
@@ -26,21 +26,21 @@ I'm a highly motivated student at **El-Sewedy IATS School**, dedicated to master
 ## 🌐 Connect & Collaborate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/safiya-hosam-2a8b1a365/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/safiya-hosam-2a8b1a365/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
 </p>
 
 ---
 
 ## 📈 GitHub Activity & Achievements
 
-|                                                               GitHub Stats                                                               |                                                             Top Languages                                                              |
+|                                                               GitHub Stats                                                               |                                                             Top Languages                                                              |
 | :--------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
 | ![](https://github-readme-stats.vercel.app/api?username=SafiyaHosam&show_icons=true&theme=ocean_dark&count_private=true&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SafiyaHosam&layout=compact&theme=ocean_dark&hide_border=true) |
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SafiyaHosam&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SafiyaHosam&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
