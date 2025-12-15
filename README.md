@@ -4,22 +4,10 @@
 
 ### 👩‍💻 Back-End Developer in Training | .NET Specialist
 
-<!-- Detective Style Rectangle -->
-<div align="center" style="margin: 20px 0;">
-  <div style="
-    background-color: #ff6b6b;
-    color: #ffffff;
-    padding: 14px 26px;
-    border-radius: 12px;
-    font-size: 1.2em;
-    font-weight: 600;
-    font-family: Arial, sans-serif;
-    display: inline-block;
-    box-shadow: 0 4px 0 #d94a4a;
-  ">
-    🔍 Catch me if u can, Mr. Holmes..
-  </div>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔍%20Catch%20me%20if%20u%20can,%20Mr.%20Holmes..-ff6b6b?style=for-the-badge&logoColor=white" />
+</p>
+
 
 <p>
 I'm a highly motivated student at <b>El-Sewedy IATS School</b>, dedicated to mastering back-end software engineering.<br/>
