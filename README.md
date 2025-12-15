@@ -24,10 +24,9 @@ I enjoy solving complex problems and writing clean, efficient code.
 ## 📚 Current Focus
 
 <p>
-<b>🔹 Deep Dive:</b> Mastering <b>Entity Framework Core</b> and advanced database interaction patterns<br/>
-<b>🔹 Scalability:</b> Studying design patterns and clean architecture for large-scale applications<br/>
-<b>🔹 DSA Practice:</b> Strengthening <b>Data Structures & Algorithms</b> fundamentals<br/>
-<b>🔹 Tooling:</b> Improving productivity with <b>Git</b> and structured problem-solving
+<b>🔹 Backend Development Focus:</b> Focusing on improving my backend development skills, especially using .NET, and building scalable, high-performance APIs<br/>
+<b>🔹 Learning More Programming Languages:</b> Expanding my knowledge by learning additional programming languages and backend technologies<br/>
+<b>🔹 Tools & Productivity:</b> Enhancing my proficiency with development tools (such as Git) and improving overall productivity and structured problem-solving<br/>
 </p>
 
 ---
