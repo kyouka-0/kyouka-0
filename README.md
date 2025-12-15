@@ -27,7 +27,7 @@ I'm a highly motivated student at **El-Sewedy IATS School**, dedicated to master
 
 <p align="center">
   <a href="https://www.linkedin.com/in/safiya-hosam-2a8b1a365/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn Profile Badge" />
   </a>
 </p>
 
