@@ -24,9 +24,9 @@ I enjoy solving complex problems and writing clean, efficient code.
 ## 📚 Current Focus
 
 <p>
-<b>🔹 Backend Development Focus:</b> Focusing on improving my backend development skills, especially using .NET, and building scalable, high-performance APIs<br/>
-<b>🔹 Learning More Programming Languages:</b> Expanding my knowledge by learning additional programming languages and backend technologies<br/>
-<b>🔹 Tools & Productivity:</b> Enhancing my proficiency with development tools (such as Git) and improving overall productivity and structured problem-solving<br/>
+<b>🔹 Backend Development Focus:</b> Focusing on improving my backend development skills, especially using .NET, and building scalable<br/>
+<b>🔹 Learning More Programming Languages:</b> Expanding my knowledge by learning additional programming languages<br/>
+<b>🔹 Tools & Productivity:</b> Enhancing my proficiency with development tools (such as Git) and improving overall productivity<br/>
 </p>
 
 ---
