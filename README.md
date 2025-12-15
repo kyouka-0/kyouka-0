@@ -2,7 +2,7 @@
 
 # ✨ Hello World! I'm Safiya Hossam Mohamed 🦋
 
-### 👩‍💻 Back-End Developer in Training | .NET Specialist | Problem Solver
+### 👩‍💻 Back-End Developer in Training | .NET Specialist
 
 <p>
 I'm a highly motivated student at <b>El-Sewedy IATS School</b>, dedicated to mastering back-end software engineering.<br/>
