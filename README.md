@@ -27,11 +27,7 @@ I'm a highly motivated student at **El-Sewedy IATS School**, dedicated to master
 
 <p align="center">
   <a href="https://www.linkedin.com/in/safiya-hosam-2a8b1a365/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-SAFIYA%20HOSAM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
 
