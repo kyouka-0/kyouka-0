@@ -2,6 +2,21 @@
 
 # ✨ Hello World! I'm Safiya Hossam Mohamed 🦋
 
+<div style="
+    position: absolute; 
+    top: 50px; 
+    right: 50px; 
+    padding: 10px 15px; 
+    border: 3px solid #ff4500; /* Orange-Red Border */
+    border-radius: 20px; /* Rounded Edges */
+    background-color: #f0f8ff; /* Light Background */
+    color: #4682b4; /* Steel Blue Text */
+    font-size: 1.2em;
+    font-weight: bold;
+    z-index: 1000; /* Ensure it floats above other content */
+">
+    Catch me if u can, Mr. Holmes..
+</div>
 ### 👩‍💻 Back-End Developer in Training | .NET Specialist
 
 <p>
@@ -15,8 +30,8 @@ I enjoy solving complex problems and writing clean, efficient code.
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,py,dart,flutter,git&theme=dark" alt="C#, .NET, C++, Python, Dart, Flutter, Git" />
-  <br/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,py,dart,flutter,git&theme=dark" alt="C#, .NET, C++, Python, Dart, Flutter, Git" />
+  <br/>
 </p>
 
 ---
@@ -34,9 +49,9 @@ I enjoy solving complex problems and writing clean, efficient code.
 ## 🌐 Connect & Collaborate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/safiya-hosam-2a8b1a365/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/safiya-hosam-2a8b1a365/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -44,7 +59,7 @@ I enjoy solving complex problems and writing clean, efficient code.
 ## 📈 GitHub Activity & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyouka-0&layout=compact&theme=ocean_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyouka-0&layout=compact&theme=ocean_dark&hide_border=true" height="165" />
 </p>
 
 
