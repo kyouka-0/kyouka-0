@@ -12,16 +12,11 @@ I'm a highly motivated student at **El-Sewedy IATS School**, dedicated to master
 
 <div align="center">
     <p>
-        <img src="https://skillicons.dev/icons?i=cs" alt="C# Icon" style="width: 40px; height: 40px;">
-        <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET Icon" style="width: 40px; height: 40px;">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++ Icon" style="width: 40px; height: 40px;">
-        <img src="https://skillicons.dev/icons?i=dart" alt="Dart Icon" style="width: 40px; height: 40px;">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python Icon" style="width: 40px; height: 40px;">
-        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter Icon" style="width: 40px; height: 40px;">
-        <img src="https://skillicons.dev/icons?i=mssql" alt="SQL Server Icon" style="width: 40px; height: 40px;">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git Icon" style="width: 40px; height: 40px;">
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,py,dart,flutter,git,mssql" alt="Tech Stack Icons: C#, .NET, C++, Python, Dart, Flutter, Git, MSSQL" style="width: 100%; max-width: 450px;">
     </p>
 </div>
+
+---
 
 <div align="left">
 
@@ -34,20 +29,23 @@ I'm a highly motivated student at **El-Sewedy IATS School**, dedicated to master
 
 ---
 
-## 🌐 Connect & Collaborate
-
-<p>
-    <a href="https://www.linkedin.com/in/safiya-hosam-2a8b1a365/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Safiya%20Hosam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-    </a>
-</p>
-
 </div>
 
-<div align="right">
-    <a href="#">
-        <img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/main/Catch%20me%20if%20u%20can,%20Mr.%20Holmes..png" alt="Catch me if u can, Mr. Holmes" width="300" />
-    </a>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+    
+    <div style="flex: 1; text-align: left;">
+        <h2>🌐 Connect & Collaborate</h2>
+        <a href="https://www.linkedin.com/in/safiya-hosam-2a8b1a365/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-SAFIYA%20HOSAM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+        </a>
+    </div>
+
+    <div style="flex: 1; text-align: right;">
+        <a href="#">
+             <img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/main/Catch%20me%20if%20u%20can,%20Mr.%20Holmes..png" alt="Catch me if u can, Mr. Holmes" width="300" />
+        </a>
+    </div>
+
 </div>
 
 <br>
