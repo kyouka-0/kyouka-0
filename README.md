@@ -27,7 +27,7 @@ I'm a highly motivated student at **El-Sewedy IATS School**, dedicated to master
 
 <p align="center">
   <a href="https://www.linkedin.com/in/safiya-hosam-2a8b1a365/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn Profile Badge" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="Safiya Hossam LinkedIn" />
   </a>
 </p>
 
@@ -35,9 +35,9 @@ I'm a highly motivated student at **El-Sewedy IATS School**, dedicated to master
 
 ## 📈 GitHub Activity & Achievements
 
-|                                                                  GitHub Stats                                                                 |                                                            Top Languages                                                            |
-| :-------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
-| ![](https://github-readme-stats.vercel.app/api?username=SafiyaHosam\&show_icons=true\&theme=ocean_dark\&count_private=true\&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SafiyaHosam\&layout=compact\&theme=ocean_dark\&hide_border=true) |
+|                                                               GitHub Stats                                                               |                                                             Top Languages                                                              |
+| :--------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
+| ![](https://github-readme-stats.vercel.app/api?username=SafiyaHosam&show_icons=true&theme=ocean_dark&count_private=true&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SafiyaHosam&layout=compact&theme=ocean_dark&hide_border=true) |
 
 ### 🏆 GitHub Trophies
 
