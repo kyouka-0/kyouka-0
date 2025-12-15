@@ -2,23 +2,22 @@
 
 # ✨ Hello World! I'm Safiya Hossam Mohamed 🦋
 
+### 👩‍💻 Back-End Developer in Training | .NET Specialist
+
 <div style="
-    position: absolute; 
-    top: 50px; 
-    right: 50px; 
     padding: 10px 15px; 
-    border: 3px solid #ff4500; /* Orange-Red Border */
-    border-radius: 20px; /* Rounded Edges */
-    background-color: #f0f8ff; /* Light Background */
-    color: #4682b4; /* Steel Blue Text */
-    font-size: 1.2em;
+    margin: 20px auto; /* Adds vertical space and centers it horizontally */
+    max-width: fit-content; /* Makes the box only as wide as the text */
+    border: 3px dashed #FFD700; /* Gold Dashed Border for a fun look */
+    border-radius: 12px; /* Rounded Edges */
+    background-color: #36454F; /* Dark background */
+    color: #FFFFFF; /* White text */
+    font-size: 1.1em;
     font-weight: bold;
-    z-index: 1000; /* Ensure it floats above other content */
+    font-style: italic;
 ">
     Catch me if u can, Mr. Holmes..
 </div>
-### 👩‍💻 Back-End Developer in Training | .NET Specialist
-
 <p>
 I'm a highly motivated student at <b>El-Sewedy IATS School</b>, dedicated to mastering back-end software engineering.<br/>
 My focus is on building robust, scalable solutions using the <b>.NET</b> ecosystem.<br/>
