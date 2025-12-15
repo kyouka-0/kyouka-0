@@ -15,9 +15,8 @@ I enjoy solving complex problems and writing clean, efficient code.
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,py,dart,flutter,git,mysql&theme=dark" alt="C#, .NET, C++, Python, Dart, Flutter, Git, MSSQL" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,py,dart,flutter,git&theme=dark" alt="C#, .NET, C++, Python, Dart, Flutter, Git" />
   <br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="Microsoft SQL Server" height="48" />
 </p>
 
 ---
