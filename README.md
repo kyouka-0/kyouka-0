@@ -15,21 +15,24 @@ I'm a motivated 17-year-old student at **El-Sewedy IATS School** dedicated to ma
 My expertise is centered around the Microsoft ecosystem, alongside strong foundational programming knowledge.
 
 ### ⚙️ Languages & Frameworks
+
 | Category | Skills |
 | :--- | :--- |
-| **Primary Back-End** | C\# |
-| **Back-End Framework** | **ASP.NET Core** 🎯 |
-| **Other Languages** | C++, Dart, Python (Foundational) |
-| **Mobile/UI** | Flutter |
-| **Database** | Microsoft SQL Server |
+| **Primary Back-End** | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Logo"> |
+| **Back-End Framework** | <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Logo"> **Core** 🎯 |
+| **Other Languages** | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Logo"> &nbsp; <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Logo"> &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo"> (Familiar) |
+| **Mobile/UI** | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Logo"> |
+| **Database** | <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server Logo"> |
 
 <br>
 
 ### 🔧 Tools & Concepts
 
-[![Git Badge](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![OOP Badge](https://img.shields.io/badge/OOP-Principles-5E548E?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Object-oriented_programming)
-[![Problem Solving Badge](https://img.shields.io/badge/Problem%20Solving-Analysis-0077B6?style=for-the-badge&logo=microsoft&logoColor=white)](#)
+<p align="center">
+    <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Logo"> &nbsp;
+    <img src="https://img.shields.io/badge/OOP-Principles-5E548E?style=for-the-badge&logo=microsoft&logoColor=white" alt="OOP Logo"> &nbsp;
+    <img src="https://img.shields.io/badge/Problem%20Solving-Analysis-0077B6?style=for-the-badge&logoColor=white" alt="Problem Solving Badge">
+</p>
 
 ---
 
