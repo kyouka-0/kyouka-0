@@ -5,18 +5,26 @@
 ### 👩‍💻 Back-End Developer in Training | .NET Specialist
 
 <div style="
-    padding: 10px 15px; 
-    margin: 20px auto; /* Adds vertical space and centers it horizontally */
-    max-width: fit-content; /* Makes the box only as wide as the text */
-    border: 3px dashed #FFD700; /* Gold Dashed Border for a fun look */
-    border-radius: 12px; /* Rounded Edges */
-    background-color: #36454F; /* Dark background */
-    color: #FFFFFF; /* White text */
-    font-size: 1.1em;
-    font-weight: bold;
-    font-style: italic;
+    /* Outer Layer (Simulates the dark frame/shadow container) */
+    background-color: #333333; 
+    border-radius: 10px; 
+    padding: 10px;
+    margin: 20px auto;
+    max-width: 400px; /* Limit width */
 ">
-    Catch me if u can, Mr. Holmes..
+    <div style="
+        /* Inner Layer (The bright, primary rectangle) */
+        background-color: #EF5350; /* A vibrant red/coral color */
+        color: #FFFFFF;
+        padding: 12px 20px;
+        border-radius: 8px; /* Slightly less rounded than the outer layer */
+        font-size: 1.3em;
+        font-weight: bold;
+        font-family: sans-serif; /* Use a common font */
+        display: inline-block; /* Ensure it wraps the content nicely */
+    ">
+        Catch me if u can, Mr. Holmes..
+    </div>
 </div>
 <p>
 I'm a highly motivated student at <b>El-Sewedy IATS School</b>, dedicated to mastering back-end software engineering.<br/>
