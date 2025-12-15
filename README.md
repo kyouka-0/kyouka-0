@@ -45,14 +45,14 @@ I enjoy solving complex problems and writing clean, efficient code.
 ## 📈 GitHub Activity & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyouka!&show_icons=true&theme=ocean_dark&count_private=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyouka!&layout=compact&theme=ocean_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kyouka-0&show_icons=true&theme=ocean_dark&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyouka-0&layout=compact&theme=ocean_dark&hide_border=true" height="165" />
 </p>
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kyouka!&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kyouka-0&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 </div>
