@@ -11,8 +11,9 @@ I'm a highly motivated student at **El-Sewedy IATS School**, dedicated to master
 </div>
 
 <div align="center">
+    <h2>🛠️ Languages and Tools</h2>
     <p>
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,py,dart,flutter,git,mssql" alt="Tech Stack Icons: C#, .NET, C++, Python, Dart, Flutter, Git, MSSQL" style="width: 100%; max-width: 450px;">
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,py,dart,flutter,git,mssql&theme=dark&size=40" alt="Tech Stack Icons: C#, .NET, C++, Python, Dart, Flutter, Git, MSSQL">
     </p>
 </div>
 
@@ -41,8 +42,8 @@ I'm a highly motivated student at **El-Sewedy IATS School**, dedicated to master
     </div>
 
     <div style="flex: 1; text-align: right;">
-        <a href="#">
-             <img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/main/Catch%20me%20if%20u%20can,%20Mr.%20Holmes..png" alt="Catch me if u can, Mr. Holmes" width="300" />
+        <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee Badge">
         </a>
     </div>
 
